@@ -8,7 +8,7 @@ const getYoutubeID = require("get-youtube-id");
 const fetchVideoInfo = require("youtube-info");
 
 const yt_api_key = "AIzaSyBQS2O3GceN-cuocacmbcmktRQYKAIP6t8";
-const discord_token = "NDAwOTMxOTcyNzEwNDAwMDAw.DTi1Mw.uDZY3B9c4jl_c4-oDUZi6rlG0Hk";
+const discord_token = "NDAwOTMxOTcyNzEwNDAwMDAw.DTi2Ew.IkaXAEKEkOzEOKr_frWBC23aqV0";
 const bot_controller = "400728062246912011";
 const prefix = "-";
 
